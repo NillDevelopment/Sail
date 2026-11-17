@@ -6,7 +6,7 @@
 ![license](https://img.shields.io/badge/license-AGPLv3-green?style=flat-square)
 ![no service workers](https://img.shields.io/badge/service%20workers-absolutely%20not-red?style=flat-square)
 ![no wisp usage](https://img.shields.io/badge/wisp%20usage-absolutely%20not-red?style=flat-square)
-![totally working svg](https://img.shields.io/badge/svg%20functionality-gorgeous%20and%20beautiful-blue?style=flat-square)
+![totally working svg](https://img.shields.io/badge/svg%20functionality-unmaintained%20currently?style=flat-square)
 
 </div>
 
@@ -17,6 +17,7 @@
 - None yet.
 
 ---
+
 ## What is this?
 
 Sail is a combination of GUST and Pulsar to bring you an almost unblockable site.
@@ -41,6 +42,7 @@ Combining these puts two of the most unblockable services and combines them.
 ✅ All GUST Features
 
 ✅ All Pulsar Features
+
 
 --
 
