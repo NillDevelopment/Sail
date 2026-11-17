@@ -45,7 +45,6 @@ Combining these puts two of the most unblockable services and combines them.
 
 --
 
-
 ## Credits
 
 Check out [Pulsar](https://github.com/abndnce/pulsar) and [GUST](https://github.com/nautilus-os/GUST)!
