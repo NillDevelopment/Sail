@@ -20,11 +20,8 @@
 ## What is this?
 
 Sail is a combination of GUST and Pulsar to bring you an almost unblockable site.
-
 Basically, most sites use wisp which requires a secure connection, while pular
-
 allows you to connect directly to an IP, making it almost impossible to block.
-
 Combining these puts two of the most unblockable services and combines them.
 
 
@@ -42,8 +39,6 @@ Combining these puts two of the most unblockable services and combines them.
 
 ✅ All Pulsar Features
 
-
---
 
 ## Credits
 
