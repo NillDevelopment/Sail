@@ -324,10 +324,10 @@
             pointer-events: none;
             flex-shrink: 0;
         }
-        .tab-drag-slot.slot-open {
-            /* already full width — no animation needed since tabs are frozen */
+        /*.tab-drag-slot.slot-open {
+            already full width — no animation needed since tabs are frozen
         }
-
+        */
         /* Floating ghost that follows the cursor */
         .tab-drag-ghost {
             position: fixed;
